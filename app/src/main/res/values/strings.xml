@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="saveButtonHint">Сохранить</string>
+    <string name="exit_menu_text">Выход</string>
+    <string name="nameTextView">Название продукта</string>
+    <string name="weightTextView">Вес</string>
+    <string name="priceTextView">Цена</string>
+</resources>
