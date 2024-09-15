@@ -5,4 +5,14 @@
     <string name="nameTextView">Название продукта</string>
     <string name="weightTextView">Вес</string>
     <string name="priceTextView">Цена</string>
+    <string name="changeButtonText">Изменить</string>
+    <string name="deleteButtonText">Удалить</string>
+    <string name="updateNameETHint">Введите имя</string>
+    <string name="updateWeightETHint">Введите вес</string>
+    <string name="updatePriceETHint">Введите цену</string>
+    <string name="id">ID</string>
+    <string name="nameHint">продукт</string>
+    <string name="weightHint">вес</string>
+    <string name="priceHint">цена</string>
+    <string name="updateID">Введите ID</string>
 </resources>
